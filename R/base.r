@@ -13,7 +13,7 @@
 
 
 #As per NCBI's documentation -- we set tool developer's email and tool name:
-entrez_email <- function() 'david.winter@gmail.com'
+entrez_email <- function() 'z5yang@ucsd.edu'
 entrez_tool <- function() 'rentrez'
 
 #Create a URL for the EUtils API. 
